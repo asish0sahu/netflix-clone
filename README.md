@@ -39,6 +39,17 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+
+##Project Details
+
+👉It is a netflix clone project built using react. React hooks useEffect and useState are used in the project. 
+
+👉The data is displayed from Tmdb using its API. 
+
+👉Trailers are also displayed from youtube on clicking any movie. 
+
+👉To check the deployed version visit Link:https://netflix-dc3454.netlify.app
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
