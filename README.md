@@ -48,7 +48,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 👉Trailers are also displayed from youtube on clicking any movie. 
 
-👉To check the deployed version visit Link:https://netflix-dc3454.netlify.app
+👉To check the deployed version visit Link:https://netflix-d51b22.netlify.app/
 
 ## Learn More
 
